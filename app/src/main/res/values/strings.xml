@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MultipleScreen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="player_name">
+        <item>Eden</item>
+        <item>Lionel</item>
+        <item>Luis</item>
+        <item>Luka</item>
+        <item>Radamel</item>
+        <item>Sergio</item>
+        <item>Toni</item>
+    </string-array>
+
+    <array name="images_Player">
+
+        <item>@drawable/eden</item>
+        <item>@drawable/lionel</item>
+        <item>@drawable/luis</item>
+        <item>@drawable/luka</item>
+        <item>@drawable/radamel</item>
+        <item>@drawable/sergio</item>
+        <item>@drawable/toni</item>
+
+    </array>
+</resources>
